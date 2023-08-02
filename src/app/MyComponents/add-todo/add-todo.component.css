@@ -1,0 +1,23 @@
+.todo-title{
+    background-color: beige;
+    padding: 10px 25px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+.todo-desc{
+    background-color: antiquewhite;
+    padding: 10px 25px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    
+}
+.todo-desc:hover{
+    background-color: rgb(248, 223, 190);
+}
+.todo-title:hover{
+    background-color: rgb(246, 246, 181);
+}
+.add-todo-box{
+    background-color: aliceblue;
+    padding: 10px 25px;
+}

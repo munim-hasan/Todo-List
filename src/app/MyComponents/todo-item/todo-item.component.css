@@ -1,0 +1,12 @@
+.strike{
+    text-decoration: line-through;
+}
+.todo-item-show{
+    background-color: lavender;
+    padding: 10px 25px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.todo-item-show:hover{
+    background-color: rgb(209, 209, 255);
+}
